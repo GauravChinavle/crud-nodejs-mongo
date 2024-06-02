@@ -37,3 +37,4 @@ Delete User: DELETE /api/users/:id
    ```bash
    git clone https://github.com/yourusername/user-management-system.git
    cd user-management-system
+   npm run dev
