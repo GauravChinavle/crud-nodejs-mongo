@@ -25,11 +25,11 @@ This project is a User Management System built using Node.js and MongoDB. It lev
 
 ### API Endpoints
 ## Users
-Get All Users: GET /api/users
-Get User by ID: GET /api/users/:id
-Create User: POST /api/users
-Update User: PUT /api/users/:id
-Delete User: DELETE /api/users/:id
+- Get All Users: GET /api/users
+- Get User by ID: GET /api/users/:id
+- Create User: POST /api/users
+- Update User: PUT /api/users/:id
+- Delete User: DELETE /api/users/:id
 
 ### Steps
 
